@@ -100,7 +100,7 @@ int main()
                             }
                         }   while (evenNum <= upperLimit);
                             
-                            }            else if (summaryOption==2)
+                            }            else if (summaryOption==2)  
                                 
                             
 
